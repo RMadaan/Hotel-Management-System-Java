@@ -1,5 +1,3 @@
-//Topic: Hotel Management System; Name: Ritik Madaan, Registration Number: 11801737, Roll Number: 61.
-//Covered Topics: Inheritance, Overriding Methods, Polymorphism, Abstract Classes, Interfaces, Exception Handling and I/O Fundamentals.
 //Admin Login- username: admin, password: admin123
 import java.io.BufferedWriter;
 import java.io.File;
