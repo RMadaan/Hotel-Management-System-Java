@@ -10,7 +10,7 @@ class Details{
     protected String password = "password";
 }
 
-interface Hdetails{       //interface has to be in separate Hdetails.java but its not in this case that is why we are getting a warning, however the complete code is working fine please try and run it.
+interface Hdetails{      
     int staff(int count1);
     int rooms(int count2);
 }
